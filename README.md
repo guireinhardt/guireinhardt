@@ -2,7 +2,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 👨‍🎓 Estou cursando MBA em Engenharia de Software.
 - 🎓 Graduado em Sistemas de Informação.
-- 🎉 Tenho 24 anos.
+- 🎉 Tenho 25 anos.
 - 🌱 Aprendendo mais sobre Java,Python e web Design.
 
 ---------------------------

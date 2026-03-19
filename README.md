@@ -1,11 +1,47 @@
 ### Olá! Eu sou Guilherme Reinhardt! 👋
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 👨‍🎓 Estou cursando MBA em Engenharia de Software.
-- 🎓 Graduado em Sistemas de Informação.
-- 🎉 Tenho 25 anos.
-- 🌱 Aprendendo mais sobre Java,Python e web Design.
+
+## Desenvolvedor Backend | Java, Spring Boot, Python e Flask
+
+Atuo no desenvolvimento de aplicações web, APIs REST, integrações e automações, com foco em eficiência, manutenção e evolução contínua de sistemas.
+
+Também possuo experiência com Docker, CI/CD, Linux e cloud, o que amplia minha visão sobre o ciclo de vida das aplicações, desde o desenvolvimento até deploy e sustentação em produção.
+
+--------------------------
+### Projetos em destaque
+
+- **Gerenciador de Arquivos**  
+  Sistema web para navegação, busca e gerenciamento de arquivos, com foco em organização, produtividade e manutenção de funcionalidades.
+
+- **Sistema de Torneio de Futebol**  
+  Aplicação para gerenciamento de times, partidas e estrutura de torneios.
+
+- **Automações e Ferramentas**  
+  Scripts e soluções voltadas para automação de processos, padronização de tarefas e apoio operacional.
+
 
 ---------------------------
+
+### Stack principal
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Outras tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+
+
 ### Meus Contatos 📱
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-reinhardt/) 
@@ -13,38 +49,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+5511959541680)
 
 
---------------------------------------
-
-### Minhas Skills
-
-
-**Aplicações e Dados**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql)
-
-**Web Design**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=flat&logo=figma&logoColor=figma)
-
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 
 --------------------------------

@@ -25,7 +25,7 @@ Tenho experiência com Docker, CI/CD, Linux e cloud — o que amplia minha visã
 Sistema web para navegação, busca e gerenciamento de arquivos, com foco em organização e produtividade.  
 **Stack:** Java · Spring Boot · PostgreSQL · Docker
 
-### ⚽ [Sistema de Torneio de Futebol](https://github.com/guireinhardt/sistema_futsal))
+### ⚽ [Sistema de Torneio de Futebol](https://github.com/guireinhardt/sistema_futsal)
 Aplicação para gerenciamento de times, partidas e estrutura de torneios.  
 **Stack:** Python · Flask · PostgreSQL
 

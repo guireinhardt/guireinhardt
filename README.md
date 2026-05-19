@@ -57,9 +57,9 @@ Scripts e soluções para automação de processos e padronização de tarefas.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guireinhardt&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guireinhardt&theme=default)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guireinhardt&hide=html&theme=default&layout=compact&hide_border=true)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guireinhardt&theme=default)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=guireinhardt&theme=default&hide_border=true)](https://git.io/streak-stats)
 ---

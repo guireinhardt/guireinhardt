@@ -56,11 +56,12 @@ Scripts e soluções para automação de processos e padronização de tarefas.
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guireinhardt&show_icons=true&theme=default&hide_border=true&cache_seconds=1800)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guireinhardt&hide=html&theme=default&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=guireinhardt&theme=default&hide_border=true)](https://git.io/streak-stats)
-</div>
 
 ---
 

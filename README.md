@@ -58,6 +58,7 @@ Scripts e soluções para automação de processos e padronização de tarefas.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guireinhardt&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guireinhardt&hide=contribs,prs)
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guireinhardt&theme=default)
 

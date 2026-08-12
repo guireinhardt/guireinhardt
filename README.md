@@ -68,4 +68,4 @@ Scripts e soluções para automação de processos e padronização de tarefas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-reinhardt/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=red)](mailto:guidreinhardt@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+5511959541680)
+
